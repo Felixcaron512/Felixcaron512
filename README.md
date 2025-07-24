@@ -1,5 +1,9 @@
-## Hi there 👋
+## Ma page Personnel 🤪
+Allo mon nom est Félix!
 
+- 🔭 Je suis en train de travailler sur un serveur avec Plex et Home-Assistant.
+- ⚡ Fun fact: J'adore faire des sauts à ma famille et amis!
+- 📫 Comment me contacter: fromhelix409@icloud.com 
 <!--
 **Felixcaron512/Felixcaron512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +16,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+⚡ Fun fact: ...
 -->
